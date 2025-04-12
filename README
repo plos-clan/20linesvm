@@ -1,0 +1,6 @@
+20linesvm
+=========
+A Vm which only have 20LINES.
+You just need to include 20linesvm.c, and then use it.
+test.c gave a example of print charactor 'H'.
+have fun!
